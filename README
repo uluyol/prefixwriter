@@ -1,0 +1,5 @@
+This is forked from openshift so that this package can
+be imported without downloading the entire openshift
+repository and in case the upstream package is deleted.
+
+Original package: github.com/openshift/origin/pkg/cmd/util/prefixwriter
